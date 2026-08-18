@@ -78,3 +78,4 @@ PyTorch, MedSAM (Segment Anything Model, medical extension), NiBabel, NumPy, Ope
 ## Citation
 
 Sequeira, A., Kwan, H., and Voss, A. *Evaluating the Effectiveness of Deep-Learning Approaches for Brain Tumor Segmentation.* Stanford, 2025.
+https://drive.google.com/file/d/1KOCGWYQneljIWG_9QvxRpqB-_VQuZk0i/view?usp=sharing
